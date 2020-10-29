@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jZGK7aFY2xex9rfbd1me8wt44Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="" />
+      <created>1604004133665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604004133665</updated>
+      <workItem from="1604004134911" duration="1015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="91" key="#Deployment" timestamp="1604004755707">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1604004755707" />
+    <state x="413" y="114" key="#Options" timestamp="1604005100159">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="413" y="114" key="#Options/0.0.1474.864@0.0.1474.864" timestamp="1604005100159" />
+    <state x="314" y="78" key="#SSH_Configurations" timestamp="1604004307032">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1604004307032" />
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604005048109">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005048109" />
+    <state x="518" y="174" key="FileChooserDialogImpl" timestamp="1604005146666">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="174" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1604005146666" />
+    <state x="596" y="330" key="Github.ShareDialog" timestamp="1604005134005">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="596" y="330" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005134005" />
+    <state x="394" y="197" key="run.anything.popup" timestamp="1604005043381">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="394" y="197" key="run.anything.popup/0.0.1474.864@0.0.1474.864" timestamp="1604005043381" />
+  </component>
+</project>
