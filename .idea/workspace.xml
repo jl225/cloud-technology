@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="" />
+    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: repository created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604004133665</updated>
-      <workItem from="1604004134911" duration="1015000" />
+      <workItem from="1604004134911" duration="10383000" />
     </task>
     <servers />
   </component>
@@ -67,14 +71,18 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005048109" />
-    <state x="518" y="174" key="FileChooserDialogImpl" timestamp="1604005146666">
+    <state x="518" y="174" key="FileChooserDialogImpl" timestamp="1604101673319">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="174" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1604005146666" />
-    <state x="596" y="330" key="Github.ShareDialog" timestamp="1604005134005">
+    <state x="518" y="174" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1604101673319" />
+    <state x="596" y="330" key="Github.ShareDialog" timestamp="1604005195653">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="596" y="330" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005134005" />
+    <state x="596" y="330" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005195653" />
+    <state x="522" y="137" key="Github.UntrackedFilesDialog" timestamp="1604005207541">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="522" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005207541" />
     <state x="394" y="197" key="run.anything.popup" timestamp="1604005043381">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
