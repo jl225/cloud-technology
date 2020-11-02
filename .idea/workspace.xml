@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: repository created">
+    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: index paged edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +46,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604004133665</updated>
-      <workItem from="1604004134911" duration="10383000" />
+      <workItem from="1604004134911" duration="13968000" />
     </task>
+    <task id="LOCAL-00001" summary="task: index paged edited">
+      <created>1604116568616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604116568617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task: index paged edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: index paged edited" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1604004755707">
@@ -83,6 +94,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="522" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1604005207541" />
+    <state x="284" y="250" key="Vcs.Push.Dialog.v2" timestamp="1604116570609">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="284" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1604116570609" />
     <state x="394" y="197" key="run.anything.popup" timestamp="1604005043381">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
