@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: image directory added">
-      <change afterPath="$PROJECT_DIR$/docs/images/docker-containerized-and-vm-transparent-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1176050900-2048x2048.jpg" afterDir="false" />
+    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: page1 updated">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1073009100-612x612.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604004133665</updated>
-      <workItem from="1604004134911" duration="28445000" />
+      <workItem from="1604004134911" duration="32948000" />
     </task>
     <task id="LOCAL-00001" summary="task: index paged edited">
       <created>1604116568616</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604335618762</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task: pages updated">
+      <created>1604358351514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604358351514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +106,8 @@
     <MESSAGE value="task: index paged edited" />
     <MESSAGE value="task: css added" />
     <MESSAGE value="task: image directory added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: image directory added" />
+    <MESSAGE value="task: pages updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: pages updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1604004755707">
