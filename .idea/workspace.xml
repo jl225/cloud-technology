@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: page2 edited">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page4.html" afterDir="false" />
+    <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: added images for page3 and page4 content">
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +130,35 @@
       <option name="project" value="LOCAL" />
       <updated>1604363413158</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task: added content to page3 and page4">
+      <created>1604462238981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604462238981</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task: added titles to page1 and page2">
+      <created>1604462258205</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604462258205</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task: committed xml files">
+      <created>1604462271692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604462271692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task: added images for page3 and page4 content">
+      <created>1604462291092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604462291092</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +184,11 @@
     <MESSAGE value="task: page1 updated" />
     <MESSAGE value="task: page2 added" />
     <MESSAGE value="task: page2 edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: page2 edited" />
+    <MESSAGE value="task: added content to page3 and page4" />
+    <MESSAGE value="task: added titles to page1 and page2" />
+    <MESSAGE value="task: committed xml files" />
+    <MESSAGE value="task: added images for page3 and page4 content" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added images for page3 and page4 content" />
   </component>
   <component name="WindowStateProjectService">
     <state x="287" y="38" key="#Deployment" timestamp="1604453113286">
