@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4cacd503-f203-42a3-8bf3-fed6dc0fc56f" name="Default Changelist" comment="task: page2 edited">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +40,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +64,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -113,6 +142,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task: index paged edited" />
     <MESSAGE value="task: css added" />
@@ -124,9 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="task: page2 edited" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="91" key="#Deployment" timestamp="1604004755707">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="287" y="38" key="#Deployment" timestamp="1604453113286">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="287" y="38" key="#Deployment/0.0.1280.720@0.0.1280.720" timestamp="1604453113286" />
     <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1604004755707" />
     <state x="413" y="114" key="#Options" timestamp="1604005100159">
       <screen x="0" y="0" width="1474" height="864" />
@@ -156,6 +198,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="284" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1604363416142" />
+    <state x="512" y="253" key="publish.login" timestamp="1604451627674">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="512" y="253" key="publish.login/0.0.1280.720@0.0.1280.720" timestamp="1604451627674" />
     <state x="394" y="197" key="run.anything.popup" timestamp="1604005043381">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
